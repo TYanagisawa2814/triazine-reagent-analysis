@@ -4,7 +4,7 @@ from rdkit.Chem import rdDetermineBonds
 from rdkit.Chem import rdFreeSASA
 
 
-TOTAL_CHARGE = 0
+TOTAL_CHARGE = 0 # or (+1)
 
 # =========================================
 # Bondi van der Waals radii (Å)
